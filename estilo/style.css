@@ -50,7 +50,7 @@ header > h1{
     color: white;
     font-family:var(--font-destaque) ;
     font-weight: normal;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     font-size: 3em;
     text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.485);
     }
